@@ -1,0 +1,3 @@
+[submodule "DeepFinder"]
+	path = DeepFinder
+	url = https://gitlab.inria.fr/serpico/deep-finder.git
